@@ -19,3 +19,9 @@ This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) fo
     ...
 
 The buildpack will detect that your app has a `Makefile` in the root. It will call `make` to execute the default target.
+
+## About
+
+Based on [Pete Peen’s](https://github.com/peterkeen) excellent [heroku-buildpack-vendorbinaries](https://github.com/peterkeen/heroku-buildpack-vendorbinaries).
+
+© 2014 nb.io, LLC.

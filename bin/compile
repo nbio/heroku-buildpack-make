@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "-----> Found Makefile"
+echo "-----> Found a Makefile"
 cd $1
 make
